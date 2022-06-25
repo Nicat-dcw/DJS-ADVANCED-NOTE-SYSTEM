@@ -1,0 +1,23 @@
+{
+  "name": "DJS-ADVANCED-NOTE-SYSTEM",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {
+    "discord-modals": "^1.3.7",
+    "discord.js": "^13.8.0",
+    "inflames.db": "^2.5.3",
+    "resydb":"^2.0.4",
+    "node": "^16.6.0",
+    "quick.db": "^9.0.2",
+    "quickboard": "^1.4.5",
+    "resydb": "^2.0.4",
+    "uuid": "^8.3.2"
+  }
+}
